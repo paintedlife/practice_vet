@@ -1,7 +1,7 @@
 #login .input-small
 {
 	width:50%;
-	height:13%;
+	height:10%;
 	border-radius: 8px;
 	outline:none;
 	padding:2px;
@@ -11,6 +11,7 @@
 #login .input-small:focus
 {
 	border: 1px solid #000000;
+	width: 70%;
 }
 
 #login .input-button
@@ -22,8 +23,8 @@
 	border:solid 1px;
 	border-color:#000000;
 	padding: 8px 15px 8px 15px;
-	margin-left: 30%;
 	box-shadow: 2px 2px grey;
+	cursor: pointer;
 }
 
 #login input[type=button]:hover,

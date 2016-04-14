@@ -7,8 +7,8 @@
 
 #login
 {
-	margin:10% 30%;
-	height: 40%;
+	margin:5% 5%;
+	height: 60%;
 	border:solid 1px;
 	border-color:#000000;
 	box-shadow: 2px 2px 2px 2px grey;
@@ -16,11 +16,17 @@
 
 .signin
 {
-	margin:10%;
-	width:100%;
+	float: left;
+	width: 45%;
+	margin-top: 5%;
+	margin-left: 5%;
+	border-right: solid 1px;
 }
 
-.important
+.register
 {
-	display:inline;
+	float:right;
+	width: 45%;
+	margin-top: 5%;
+	margin-right: 2%;
 }
