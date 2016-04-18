@@ -22,6 +22,11 @@
 					<input type = "submit" name = "login" value = "Login" class = "input-button">
 				</form>
 				</div>
+				
+				<div id = "logo">
+					<img src = "img/paw.png" class = "logo">
+				</div>
+				
 				<div class = "register">
 				<div class = "header-bold"> Register: </div>
 				<form>

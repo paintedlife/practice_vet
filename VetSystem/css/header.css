@@ -19,3 +19,13 @@
 {
 	color: red;
 }
+
+#sidebar .avatar-name
+{
+	color: #000000;
+	font-weight: bold;
+	font-style:italic;
+	text-decoration: underline;
+	font-family: Arial;
+	padding: 2%;
+}
