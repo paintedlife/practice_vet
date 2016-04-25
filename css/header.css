@@ -1,0 +1,68 @@
+#login .header-bold
+{
+	padding: 2%;
+	font-weight: bold;
+    font-style: italic;
+    margin-bottom: 20px;
+    font-size: 15px;
+    padding-bottom: 3px;
+}
+
+#login .fp
+{
+	font: italic normal bold 8px arial;
+}
+
+#login a:hover
+{
+	color: red;
+}
+
+#header .sign-link
+{
+	font: normal normal bold 16px times new roman;
+	text-decoration: none;
+	text-transform:uppercase;
+	text-shadow:1px 1px 0 #000;
+	color: #fff;
+}
+
+#header .sign-link:hover
+{
+	color: #fff;
+	text-shadow:1px 1px 1px #000;
+	text-decoration:underline;
+}
+
+#sidebar .avatar-name
+{
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	font-weight: bold;
+	font-style:italic;
+	text-decoration: underline;
+	font-family: Arial;
+	padding: 2%;
+}
+
+#content .cn-header
+{
+	padding: 10px 10px 0 0;
+	border-bottom: solid 1px;
+	font-family:times new roman;
+	font-size: 20px;
+	box-shadow: 2px 2px 2px #000000;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#content .cn-sb-header
+{
+	display: block;
+	text-align: center;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: times new roman;
+	margin: 1% 0 1% 0;
+}
