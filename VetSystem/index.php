@@ -4,6 +4,7 @@
 	<link rel="stylesheet" href="css/input.css">
 	<link rel="stylesheet" href="css/label.css">
 	<link rel="stylesheet" href="css/header.css">
+	<link rel="stylesheet" href="css/icons.css">
 	<title> Login </title>
 	</head>
 	<body>

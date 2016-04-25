@@ -6,48 +6,40 @@ ul, li
 
 #sidebar .option
 {
-	background-color:#a6a6a6;
+	background-color:#1570A5;
 	list-style-type: none;
 	border-top: solid 1px;
 	border-bottom: solid 1px;
 	text-align: center;
 	box-shadow: 0 0 10px #000000 inset;
+	vertical-align:middle;
 }
 
 #sidebar .opt
 {
 	color: #ffffff;
-	text-shadow: 2px 2px 2px #000000;
-	font-size: 14px;
+	text-shadow: 1px 1px 1px #000000;
+	font-size: 12px;
 	font-family: times new roman;
 	display:block;	
 	padding: 5% 0 5% 0;
 	text-decoration:none;
 	text-transform: uppercase;
+	border: solid 1px;
 }
 
 #sidebar a:hover
 {
-	background-color: #f2f2f2;
+	background-color: #ffffff;
 	color: #000000;
 	border: solid 1px;
-}
-
-#sidebar .icon-paw
-{
-	background-image: url(line-paw.png);
-	background-size: 100%;
-	background-repeat: no-repeat;
-	display:inline-block;
-	width:10%;
-	height:5%;
-	vertical-align: middle;
-	margin-right: 20%;
+	text-shadow:none;
+	text-decoration:underline;
 }
 
 #content .cn-sb-info
 {
-	margin-left: 5%;
+	margin: 1% 0 1% 5%;
 	font-weight: bold;
 	font-family: times new roman;
 	font-size: 14px;
